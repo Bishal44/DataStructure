@@ -91,3 +91,9 @@ def min_heapify(arr, start, simulation, iteration):
             else:
                 break
     return iteration
+
+
+#example
+if __name__ == '__main__':
+    max_heap_sort([23,105,2,5,3,77,66,1,7],True)
+    min_heap_sort([23,105,2,5,3,77,66,1,7],True)

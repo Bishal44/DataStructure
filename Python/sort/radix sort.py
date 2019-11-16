@@ -30,3 +30,8 @@ def radix_sort(arr, simulation=False):
 
         position *= 10
     return arr
+
+
+#example
+if __name__ == '__main__':
+    radix_sort([23,105,2,5,3,77,66,1,7],True)

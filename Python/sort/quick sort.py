@@ -34,5 +34,8 @@ def partition(arr, first, last):
     arr[wall], arr[last] = arr[last], arr[wall]
     return wall
 
+
+
+
 if __name__ == '__main__':
     quick_sort([8,4,6,7,5,0,1,107,2,99],True)

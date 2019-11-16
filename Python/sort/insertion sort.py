@@ -24,3 +24,7 @@ def insertion_sort(arr, simulation=False):
 
     return arr
 
+
+#example
+if __name__ == '__main__':
+    insertion_sort([23,105,2,5,3,77,66,1,7],True)
