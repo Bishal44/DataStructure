@@ -1,5 +1,5 @@
 '''
- Created by bishal on Sat Jan 15 2020
+ Created by bishal on  Jan 15 2020
 '''
 # Suppose you have a random list of people standing in a queue.
 # Each person is described by a pair of integers (h, k),

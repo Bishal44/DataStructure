@@ -1,5 +1,5 @@
 '''
- Created by bishal on Sat Jan 15 2020
+ Created by bishal on  Jan 15 2020
 '''
 from __future__ import division
 from collections import deque
